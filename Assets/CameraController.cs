@@ -12,7 +12,6 @@ public class CameraController : MonoBehaviour
     private GameObject PCCamera;
 
     private List<InputDevice> inputDevices = new List<InputDevice>();
-    private float lastInteractionTime;
     // Start is called before the first frame update
     void Start()
     {
