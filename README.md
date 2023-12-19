@@ -1,6 +1,6 @@
 Basic Project - 2:
 
-Unity project to have the same application and in the same Scene, the Oculus Quest and the PC. The Oculus Quest has to be connected to the PC using Oculus Link.
+Unity project to have the in same Unity application and in the same Scene, the Oculus Quest and the PC. The Oculus Quest has to be connected to the PC using Oculus Link.
 
 XR Interaction toolkit and XR Plugin management packages were used for setting up this project. The VRScene is a copy of the Demo Scene from the XR interaction Toolkit samples.
 
